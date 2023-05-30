@@ -1,0 +1,8 @@
+C:\Users\dines\Downloads\GetWordTextSrc\bin\Debug\GetDocText.exe
+C:\Users\dines\Downloads\GetWordTextSrc\bin\Debug\GetDocText.pdb
+C:\Users\dines\Downloads\GetWordTextSrc\obj\Debug\GetDocText.csproj.AssemblyReference.cache
+C:\Users\dines\Downloads\GetWordTextSrc\obj\Debug\GetDocText.MainForm.resources
+C:\Users\dines\Downloads\GetWordTextSrc\obj\Debug\GetDocText.csproj.GenerateResource.cache
+C:\Users\dines\Downloads\GetWordTextSrc\obj\Debug\GetDocText.csproj.CoreCompileInputs.cache
+C:\Users\dines\Downloads\GetWordTextSrc\obj\Debug\GetDocText.exe
+C:\Users\dines\Downloads\GetWordTextSrc\obj\Debug\GetDocText.pdb
